@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm shruti sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
-
-<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coading" width="400" align="right">
-
-
+<img src="https://camo.githubusercontent.com/7fd4efd6621565a2e09921d15de74e315fc4a8755660721dcb9ce5f97d27abcb/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313638313536323530383336352f6b39367a307833566a2e676966" alt="coading" width="400" align="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shruti64383&label=Profile%20views&color=0e75b6&style=flat" alt="shruti64383" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shruti64383" alt="shruti64383" /></a> </p>
@@ -17,7 +13,7 @@
 
 - 💬 Ask me about **java,react,springboot**
 
-- 📫 How to reach me **+91 9153567006**
+- 📫 How to reach me **theshrutisharmaa@gmail.com**
 
 - ⚡ Fun fact **I am not funny and most of the time living with own space**
 
